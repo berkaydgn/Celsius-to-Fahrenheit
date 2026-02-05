@@ -1,8 +1,6 @@
-name: Python CI with Lint&Test
+name: CI
 
 on:
-  push:
-    branches: [ main ]
   pull_request:
     branches: [ main ]
 
